@@ -1,0 +1,13 @@
+{
+  "name": "modoo-startup-coach",
+  "displayName": "모두의 창업 신청서 코칭 에이전트",
+  "version": "1.0.1",
+  "description": "「모두의 창업 프로젝트」 도전신청서(1R)·지역 예선 사업계획서·오디션 발표자료를 공고와 평가 기준에 맞춰 진단·채점·피드백하고, 신청자에게 건넬 코칭 리포트(DOCX)·작성 설계도·인터뷰 질문지를 만든다. 대필하지 않고 신청자가 자기 말로 쓰게 이끈다.",
+  "author": {
+    "name": "피플웨어교육컨설팅그룹 · AI프롬프트연구소"
+  },
+  "homepage": "https://github.com/NogadaHunter/modoo-startup-coach",
+  "repository": "https://github.com/NogadaHunter/modoo-startup-coach",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": ["모두의창업", "창업", "도전신청서", "사업계획서", "IR", "코칭", "정부지원사업", "korean"]
+}

@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.skill binary
+*.docx binary
+*.pptx binary
+*.pdf binary

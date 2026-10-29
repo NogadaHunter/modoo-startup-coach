@@ -1,0 +1,16 @@
+{
+  "name": "peopleware-skills",
+  "description": "피플웨어교육컨설팅그룹 · AI프롬프트연구소가 만든 Claude 스킬 모음",
+  "owner": {
+    "name": "피플웨어교육컨설팅그룹 · AI프롬프트연구소"
+  },
+  "plugins": [
+    {
+      "name": "modoo-startup-coach",
+      "source": "./plugins/modoo-startup-coach",
+      "description": "「모두의 창업 프로젝트」 도전신청서·사업계획서·오디션 발표자료를 평가 기준에 맞춰 진단·코칭하고 피드백 리포트(DOCX)를 만드는 컨설턴트용 에이전트",
+      "category": "productivity",
+      "keywords": ["모두의창업", "창업", "사업계획서", "정부지원사업", "코칭", "korean"]
+    }
+  ]
+}
